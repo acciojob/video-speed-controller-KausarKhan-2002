@@ -12,9 +12,9 @@ const inputs = document.querySelectorAll('.controls input');
 
 
 const video = document.getElementById('video');
-	const playerButton = document.getElementById('player__button');
-	const progressBar = document.getElementById('progress__bar');
-	const progressFilled = document.getElementById('progress__filled');
+	const playerButton = document.getElementById('player_button');
+	const progressBar = document.getElementById('progress_bar');
+	const progressFilled = document.getElementById('progress_filled');
 	const volumeControl = document.getElementById('volume');
 	const playbackSpeedControl = document.getElementById('playbackSpeed');
 	const rewindButton = document.getElementById('rewindButton');
